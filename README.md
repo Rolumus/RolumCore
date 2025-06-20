@@ -16,19 +16,16 @@ Stateless Validation Nodes
 ROLUM introduces stateless consensus nodes that verify transactions without needing full chain history, reducing storage bloat and increasing decentralization — while maintaining privacy through homomorphic integrity proofs
 
 # Economics
-Without premine
-Without fees
+Without premine/
+Without fees/
 Without open blockchain explorer (like Monero)
 
 # Network Specifications
-Ticker: LUM
-Algorithm: KAWPOW
-Block Time: 60 seconds
-Max Supply: 21,000,000 LUM
+Ticker: LUM/
+Algorithm: KAWPOW/
+Block Time: 60 seconds/
+Max Supply: 21,000,000 LUM/
 Launch Date: 06/21/2025
 
 # Social media
-Source: reserved
-Wallets: reserved
-Website: reserved
 Discord: https://discord.gg/pHpJtXyA
